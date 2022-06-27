@@ -1,19 +1,19 @@
 ---
-title: About
-description: My Biography
-date: 2019-02-28
+title: What Junior Leaders do
+description: A short summary of what Junior Leaders do.
+date: 2022-5-15
 ---
 
-Hi my name is Jane Doe.
-I like to write in
-[Julia](https://julialang.org/)
-like:
+* Junior Leaders is one of the projects in 4-H. Junior Leaders are experienced 4Hers that help around the community. 
 
-```julia
-println("Hello world")
-```
+* To join, you have to be in 7th through 12th grade. You also have to be an active 4-H member. Junior Leaders help out in the community and aruond the fair. Junior Leaders help younger 4-Hers by demonstrating projects at demo nights. 
 
+* Junior Leaders also have monthly meetings. Junior Leaders all say the pledge and discuss up-coming events. It is important for Junior Leaders to attend most of the meetings so they don't miss important information. 
 
-It's possible to process video motion data > 30 frames/sec with the Raspberry Pi Zero, using the GPU like:
+* Junior Leaders help out in the community as well as around the fair. Junior Leaders can sign up for different shifts at the fair, such as the pop stand and checking in projects. Junior Leaders can also judge Mini 4-H projects. 
 
-{{< youtube GdZNIYrxxik >}}
+---
+Reward System
+---
+
+Junior Leaders isn't just about helping the community, it's also about having fun! To make sure Junior Leaders have fun, there is a point system. You can get points by helping in different ways. Junior Leaders can get points from going to Junior Leader events. If Junior Leaders get 100 points, they get to go on a completion trip and get to spend a day having fun and hanging out with their friends. Junior Leaders get to go to fun places and eat out for lunch and dinner. 

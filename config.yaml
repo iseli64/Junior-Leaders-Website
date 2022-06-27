@@ -1,6 +1,6 @@
 baseURL: 'https://username.github.io/'
-title: Hugo-Flex Demo Site
-author: Jane Doe
+title: Junior Leaders
+author: Isabelle Seliger
 languageCode: en-us
 pygmentsCodeFences: true
 enableRobotsTXT: true
@@ -12,16 +12,14 @@ permalinks:
   pages: '/:filename/'
 
 params:
-  color: black
+  color: "#339966"
   width: 42rem
-  description: Jane Doe's webpages
-  footer: Except where otherwise noted, content on this site is licensed under a
-    a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
-    Creative Commons Attribution 4.0 International License</a>.
+  description: Tippecanoe County 4-H Junior Leaders website
+  footer: Copyright © Tippecanoe County 4-H Junior Leaders
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
-  divider: '\2015\2015' # Set to false to remove divider below posts on homepage
+  divider: false # Set to false to remove divider below posts on homepage
   schema: true
   opengraph: true
   twittercards: true
@@ -33,26 +31,30 @@ params:
   netlify:
     honeypot: false     # Set to true to add honeypot field in contact form
     recaptcha: false    # Set to true to add recaptcha challenge in contact form
-  # css:                # Uncomment to add custom CSS from a list of files
-  #   - css/foo.css
+  css:                # Uncomment to add custom CSS from a list of files
+   - css/custom.css
   #   - bar.css
   # js:                 # Uncomment to add custom JS from a list of files
   #   - js/foo.js
   #   - bar.js
 
-
-
 menu:
   nav:
-    - name: About
-      url: about/
+    - name: About Us
+      url: /about
       weight: 1
-    - name: Blog
-      url: posts/
+    - name: Get Involved
+      url: /involved
       weight: 2
-    - name: Tags
-      url: tags/
+    - name: Officer Positions
+      url: /officers
       weight: 3
-    - name: Categories
-      url: categories/
+    - name: Important Dates 
+      url: /dates
       weight: 4
+    - name: Updates
+      url: /updates
+      weight: 5
+    - name: Forms
+      url: /forms
+      weight: 6

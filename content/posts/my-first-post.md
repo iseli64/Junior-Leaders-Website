@@ -1,6 +1,5 @@
 ---
-title: My First blog post
-date: 2019-07-22
+title: Tippecanoe County Junior Leaders
 description: An example blog post.
 categories:
 - demo
@@ -8,7 +7,9 @@ tags:
 - hello-world
 ---
 
-This is a first blog post.
-Thanks to GoHugo for providing blazing fast static site generation.
+Welcome to the Junior Leader Website! Junior Leaders can find information, how to get involved, what officers do, important dates, previous dates, updates, and printable forms. 
 
-{{< figure src="/hugo-logo-wide.svg" title="GoHugo" alt="GoHugo logo" >}}
+Junior Leaders is a project in 4-H. To be a Junior Leader, you have to be a 7th through 12th grader. Junior Leaders help around the fair and in the community. 
+
+Junior Leaders is a very fun project. Junior Leaders get to help younger 4-Hers, work pop stand shifts, and help around the community. 
+
