@@ -1,4 +1,4 @@
 [[targets]]
 name = "tippejrleaders_preview"
 url = "s3://preview.tippejrleaders.org/?region=us-east-2"
-cloudFrontDistributionID: "E3IS7ZL06IS2CV"
+cloudFrontDistributionID = "E3IS7ZL06IS2CV"
