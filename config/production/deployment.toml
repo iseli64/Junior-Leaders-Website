@@ -1,0 +1,4 @@
+[[targets]]
+name = "tippejrleaders_production"
+url = "s3://www.tippejrleaders.org/?region=us-east-2"
+cloudFrontDistributionID: "E30YKFC540EDUG"
