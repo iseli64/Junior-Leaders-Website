@@ -5,7 +5,9 @@
     {{ .Content }}
     {{ range sort .Site.Data.officers "weight" }}
       <h1>{{ .name }}</h1>
+      <img src="{{ .image }}" id="profile-pic">
       <p>{{ .bio }}</p>
+      <div id="clearfix"></div>
     {{ end }}
     {{ partial "comments.html" . }}
   </article>

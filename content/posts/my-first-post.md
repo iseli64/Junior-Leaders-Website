@@ -11,5 +11,6 @@ Welcome to the Junior Leader Website! Junior Leaders can find information, how t
 
 Junior Leaders is a project in 4-H. To be a Junior Leader, you have to be a 7th through 12th grader. Junior Leaders help around the fair and in the community. 
 
-Junior Leaders is a very fun project. Junior Leaders get to help younger 4-Hers, work pop stand shifts, and help around the community. 
+Junior Leaders is a very fun project. Junior Leaders get to help younger 4-H'ers, work pop stand shifts, and help around the community. 
 
+{{< figure src="/img/settingtable.JPG" class="center" height="50%" width="50%" title="Ten-Year Member Breakfast Set Up" >}}

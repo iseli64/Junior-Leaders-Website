@@ -4,19 +4,19 @@ description: A summary of what the officers do and a list of current officers.
 date: 2022-5-24
 ---
 
-Junior Leader officers help lead other junior leaders. There are six different officer positions. Each officer position does a different job at each event. 
+Junior Leader officers help lead other Junior Leaders. There are six different officer positions. Each officer position does a different job at each event. 
 
 * The president usually leads in the 4-H pledge and starts off the meeting. 
 
-* The fundraiser planner plans out fun fundraisers junior leaders get to do. 
+* The vice presidents sub in for the president if he or she is not there. 
 
-* The activity planner plans fun activities for the junior leaders to do at meetings. 
+* The activity planners plan fun activities for the Junior Leaders to do at meetings. 
 
-* The historian takes pictures of junior leaders helping and having fun at events. 
+* The historian takes pictures of Junior Leaders helping and having fun at events. 
 
-* The treasurer ... 
+* The treasurer keeps track of all of the money made and spent for Junior Leaders. 
 
-* The secretary ... 
+* The secretary takes notes at all of the Junior Leader meetings.  
 
 ---
 Our current Junior Leader Officers:

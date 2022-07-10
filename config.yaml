@@ -15,7 +15,7 @@ params:
   color: "#339966"
   width: 42rem
   description: Tippecanoe County 4-H Junior Leaders website
-  footer: Copyright © Tippecanoe County 4-H Junior Leaders
+  footer: Copyright &copy; Tippecanoe County 4-H Junior Leaders
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
