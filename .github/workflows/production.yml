@@ -6,7 +6,7 @@ on:
 jobs:
     build:
       runs-on: ubuntu-latest
-      environment: production
+      environment: main
 
       steps:
         - name: Check out main
